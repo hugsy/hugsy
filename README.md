@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello friend 🤖
 
 I break stuff. I build tools to break stuff. I break those tools too.
 
@@ -30,4 +30,4 @@ There's also a bunch of unsorted code snippets [here](https://github.com/hugsy/p
 
 #### Contact Me!
 
-| [Twitter](https://twitter.com/@_hugsy_) | [Tech Blog](https://blahcat.github.io) | [Email](mailto://hugsy+github@[remove_me.]blah.cat) | [Discord](hugsy#0766) |
+| [Twitter](https://twitter.com/@_hugsy_) | [Tech Blog](https://blahcat.github.io) | [Email](mailto://hugsy+github@[remove_me.]blah.cat) | Discord:`hugsy#0766` |
