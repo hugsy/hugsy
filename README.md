@@ -20,7 +20,7 @@ I break stuff. I build tools to break stuff. I break those tools too.
 
 [And more](https://github.com/hugsy?tab=repositories)...
 
-There's also a bunch of unsorted code snippets [here](https://github.com/hugsy/pywii/stuff) and [there](https://gist.github.com/hugsy)
+There's also a bunch of unsorted code snippets [here](https://github.com/hugsy/stuff) and [there](https://gist.github.com/hugsy)
 
 
 #### Stats 
