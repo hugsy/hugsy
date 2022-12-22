@@ -30,4 +30,4 @@ There's also a bunch of unsorted code snippets [here](https://github.com/hugsy/s
 
 #### Contact Me!
 
-| [Twitter](https://twitter.com/@_hugsy_) | [Tech Blog](https://blahcat.github.io) | [Email](mailto://hugsy+github@[remove_me.]blah.cat) | Discord:`hugsy#0766` |
+| [Mastodon](https://infosec.exchange/@hugsy) | [Tech Blog](https://blahcat.github.io) | [Email](mailto://hugsy+github@[remove_me.]blah.cat) | Discord:`hugsy#0766` |
