@@ -24,9 +24,9 @@ Some other useful code template repos:
 
 | Project | Description |
 |--|--|
-| [c++20 project template](/hugsy/modern-cpp-template) | A template repository for C++20 projects, with docs and CI ready to use |
-| [pwn++ template](/hugsy/pwn--template) | Bootstrap C++ exploits with pwn++ |
-| [modern cpp windows driver template](/hugsy/modern-cpp-windows-driver-template) | Windows driver template, using C++20 & cmake & GithubActions |
+| [c++20 project template](https://github.com/hugsy/modern-cpp-template) | A template repository for C++20 projects, with docs and CI ready to use |
+| [pwn++ template](https://github.com/hugsy/pwn--template) | Bootstrap C++ exploits with pwn++ |
+| [modern cpp windows driver template](https://github.com/hugsy/modern-cpp-windows-driver-template) | Windows driver template, using C++20 & cmake & GithubActions |
 
 
 There's also a bunch of unsorted code snippets [here](https://github.com/hugsy/stuff) and [there](https://gist.github.com/hugsy)
