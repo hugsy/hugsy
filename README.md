@@ -6,8 +6,9 @@ I break stuff. I build tools to break stuff. I break those tools too.
 #### My main projects
 
 | Project | Release | Description |
-|--|--|--|
+|:----|:----|:----|
 |[![GitHub stars](https://img.shields.io/github/stars/hugsy/gef.svg)](https://github.com/hugsy/gef)|[![GitHub releases](https://img.shields.io/github/v/tag/hugsy/gef)](https://github.com/hugsy/gef/releases)|[**GEF**](https://github.com/hugsy/gef) is a collection of commands to drastically improve GDB.|
+|[![GitHub stars](https://img.shields.io/github/stars/hugsy/gef-extras.svg)](https://github.com/hugsy/gef-extras)|[![GitHub releases](https://img.shields.io/github/v/tag/hugsy/gef-extras)](https://github.com/hugsy/gef-extras/releases)|[**GEF-Extras**](https://github.com/hugsy/gef-extras) is a collection of utilities built for [GEF](https://github.com/hugsy/gef), by the community.|
 |[![GitHub stars](https://img.shields.io/github/stars/hugsy/cemu.svg)](https://github.com/hugsy/cemu)|[![GitHub releases](https://img.shields.io/github/v/tag/hugsy/cemu)](https://github.com/hugsy/cemu/releases)|[**CEMU**](https://github.com/hugsy/cemu) is graphical tool that provide a contained environment to learn, write and execute assembly code, based on Capstone/Keystone/Unicorn.|
 |[![GitHub stars](https://img.shields.io/github/stars/hugsy/cfb.svg)](https://github.com/hugsy/cfb)|[![GitHub releases](https://img.shields.io/github/v/tag/hugsy/cfb)](https://github.com/hugsy/cfb/releases)|[**Canadian Furious Beaver**](https://github.com/hugsy/cfb) is a tool for hijacking IRPs handler in Windows drivers, and facilitating the process of analyzing Windows drivers for vulnerabilities.|
 |[![GitHub stars](https://img.shields.io/github/stars/hugsy/pwn--.svg)](https://github.com/hugsy/pwn--)|[![GitHub releases](https://img.shields.io/github/v/tag/hugsy/pwn--)](https://github.com/hugsy/pwn--/releases)|[**pwn++**](https://github.com/hugsy/pwn--) is a modern C++ exploit library for Windows & Linux|
@@ -16,7 +17,8 @@ I break stuff. I build tools to break stuff. I break those tools too.
 |[![GitHub stars](https://img.shields.io/github/stars/hugsy/gef-binja.svg)](https://github.com/hugsy/gef-binja)|[![GitHub releases](https://img.shields.io/github/v/tag/hugsy/gef-binja)](https://github.com/hugsy/gef-binja/releases)|[**gef-binja**](https://github.com/hugsy/gef-binja) is a Binary Ninja plugin to interface with GEF.|
 |[![GitHub stars](https://img.shields.io/github/stars/hugsy/proxenet.svg)](https://github.com/hugsy/proxenet)|[![GitHub releases](https://img.shields.io/github/v/tag/hugsy/proxenet)](https://github.com/hugsy/proxenet/releases)|[**proxenet**](https://github.com/hugsy/proxenet) is HTTP proxy that allows to create interception plugins in any language (Python, Ruby, Perl, JS, etc.).|
 |[![GitHub stars](https://img.shields.io/github/stars/hugsy/sstoper.svg)](https://github.com/hugsy/proxenet)|[![GitHub releases](https://img.shields.io/github/v/tag/hugsy/sstoper)](https://github.com/hugsy/sstoper/releases)|[**sstoper**](https://github.com/hugsy/sstoper) is the first OpenSource SSTP VPN client for Linux. |
-|[![GitHub stars](https://img.shields.io/github/stars/hugsy/rp-rs.svg)](https://github.com/hugsy/rp-rs)|[![GitHub releases](https://img.shields.io/github/v/tag/hugsy/rp-rs)](https://github.com/hugsy/rp-rs/)|[**ropgadget-rs**](https://github.com/hugsy/rp-rs) A ROP gadget finder written in pure Rust for x86/x64/ARM/AARCH64 arches and PE/ELF/Macho formats. |
+|[![GitHub stars](https://img.shields.io/github/stars/hugsy/rp-rs.svg)](https://github.com/hugsy/rp-rs)|[![GitHub releases](https://img.shields.io/github/v/tag/hugsy/rp-rs)](https://github.com/hugsy/rp-rs/)|[**ropgadget-rs**](https://github.com/hugsy/rp-rs) A fast ROP gadget finder written in pure Rust for x86/x64/ARM/AARCH64 arches and PE/ELF/Macho formats. |
+|[![GitHub stars](https://img.shields.io/github/stars/hugsy/bochscpu-python.svg)](https://github.com/hugsy/bochscpu-python)|[![GitHub releases](https://img.shields.io/github/v/tag/hugsy/bochscpu-python)](https://github.com/hugsy/bochscpu-python/)|[**bochscpu-python**](https://github.com/hugsy/bochscpu-python) Python bindings for [BochsCPU](https://github.com/yrp604/bochscpu) |
 
 [And more](https://github.com/hugsy?tab=repositories)...
 
@@ -39,4 +41,4 @@ There's also a bunch of unsorted code snippets [here](https://github.com/hugsy/s
 
 #### Contact Me!
 
-| [Mastodon](https://infosec.exchange/@hugsy) | [Tech Blog](https://blahcat.github.io) | [Email](mailto://hugsy+github@[remove_me.]blah.cat) | Discord:`hugsy#0766` |
+| [Mastodon](https://infosec.exchange/@hugsy) | [Tech Blog](https://blahcat.github.io) | [Email](mailto://hugsy+github@[remove_me.]blah.cat) | [`.hugsy` on Discord](https://discord.gg/hSbqxxBgRX) | [@_hugsy_](https://twitter.com/_hugsy_) |
