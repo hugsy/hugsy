@@ -24,12 +24,13 @@ I break stuff. I build tools to break stuff. I break those tools too.
 
 Some other useful code template repos:
 
-| Project | Description |
+| Templates | Description |
 |--|--|
-| [c++20 project template](https://github.com/hugsy/modern-cpp-template) | A template repository for C++20 projects, with docs and CI ready to use |
-| [pwn++ template](https://github.com/hugsy/pwn--template) | Bootstrap C++ exploits with pwn++ |
-| [modern cpp windows driver template](https://github.com/hugsy/modern-cpp-windows-driver-template) | Windows driver template, using C++20 & cmake & GithubActions |
-
+| [C++20 project template](https://github.com/hugsy/modern-cpp-template) | A template repository for bootstrapping C++20 projects, including Markdown-based docs and GithubActions-based CI |
+| [`pwn++` template](https://github.com/hugsy/pwn--template) | Bootstrap exploit writing with C++23 and [`pwn++`](https://github.com/hugsy/pwn--) |
+| [C++20 Windows Driver templates](https://github.com/hugsy/modern-cpp-windows-driver-template) | Windows driver (for Device Objects and MiniFilters) templates, using C++20 & cmake & GithubActions |
+| [Modern C++ WinDbg template](https://github.com/hugsy/recon_2024_windbg_workshop/tree/main/Demos/my_cpp_windbg_ext) | |
+| [Rust WinDbg template](https://github.com/hugsy/recon_2024_windbg_workshop/tree/main/Demos/my_rust_windbg_ext) | |
 
 There's also a bunch of unsorted code snippets [here](https://github.com/hugsy/stuff) and [there](https://gist.github.com/hugsy)
 
