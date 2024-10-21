@@ -29,8 +29,8 @@ Some other useful code template repos:
 | [C++20 project template](https://github.com/hugsy/modern-cpp-template) | A template repository for bootstrapping C++20 projects, including Markdown-based docs and GithubActions-based CI |
 | [`pwn++` template](https://github.com/hugsy/pwn--template) | Bootstrap exploit writing with C++23 and [`pwn++`](https://github.com/hugsy/pwn--) |
 | [C++20 Windows Driver templates](https://github.com/hugsy/modern-cpp-windows-driver-template) | Windows driver (for Device Objects and MiniFilters) templates, using C++20 & cmake & GithubActions |
-| [Modern C++ WinDbg template](https://github.com/hugsy/recon_2024_windbg_workshop/tree/main/Demos/my_cpp_windbg_ext) | |
-| [Rust WinDbg template](https://github.com/hugsy/recon_2024_windbg_workshop/tree/main/Demos/my_rust_windbg_ext) | |
+| [Modern C++ WinDbg template](https://github.com/hugsy/recon_2024_windbg_workshop/tree/main/Demos/my_cpp_windbg_ext) | C++23 WinDbg template with WIL |
+| [Rust WinDbg template](https://github.com/hugsy/recon_2024_windbg_workshop/tree/main/Demos/my_rust_windbg_ext) | A Rust WinDbg template |
 
 There's also a bunch of unsorted code snippets [here](https://github.com/hugsy/stuff) and [there](https://gist.github.com/hugsy)
 
